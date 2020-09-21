@@ -1,0 +1,5 @@
+//////////////////////
+//Initialize Script
+//////////////////////
+
+const program = require("./actions");
