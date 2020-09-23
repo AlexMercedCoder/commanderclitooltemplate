@@ -1,7 +1,8 @@
 const program = require("../options");
+const chalk = require("chalk");
 
 if (program.hello) {
-  console.log("you used the test flag");
+  console.log(chalk.bgCyan.black("you used the test flag"));
   console.log(program.hello);
 }
 
