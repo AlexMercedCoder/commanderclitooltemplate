@@ -23,3 +23,11 @@ The entry point
 ### Package.json
 
 The bin property creates the command that will be created to run your application when installed from NPM, change it to what you need.
+
+## DEPENDENCIES
+
+Commander => https://www.npmjs.com/package/commander
+
+Chalk => https://www.npmjs.com/package/chalk
+
+Files => https://www.npmjs.com/package/files
